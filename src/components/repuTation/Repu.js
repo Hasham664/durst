@@ -42,7 +42,7 @@ const Repu = () => {
             <div>
               <div className={style.main2}>
                 <div className={style.box3}>
-                  <img src="./images/icons.png" alt="" />
+                  <img src="./images/new5.svg" alt="" />
                   <h1>“Aggressive and tough. Proven winner.”</h1>
                 </div>
                 <p className={style.p4}>
