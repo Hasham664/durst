@@ -15,7 +15,6 @@
 
 .fLogo img{
    width: 10%;
-   text-align: center;
    
 }
 
@@ -83,6 +82,8 @@
 @media all and (max-width: 768px){
     .fLogo img{
         width: 50%;
+    }
+    .fLogo{
         text-align: center;
     }
     .foot{

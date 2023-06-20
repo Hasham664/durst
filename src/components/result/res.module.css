@@ -1,7 +1,8 @@
 
 .textH{
     text-align: center;
-    padding-top: 60px;
+    /* padding-top: 60px; */
+    padding: 60px 15px;
 }
 .textH img{
     width: 5%;

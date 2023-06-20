@@ -6,7 +6,7 @@ const Result = () => {
 
     <div className={style.onlyText}>
         <div className={style.textH}>
-            <img src="./images/icon2.png" alt="" />
+            <img src="./images/trazo.png" alt="" />
             <h1>Case Results</h1>
             <p>The Durst Law Firm has achieved phenomenal results in cases involving transportation accidents, personal injury, and commercial litigation, as both lead counsel and local counsel.</p>
             <p>Filter by area</p>
