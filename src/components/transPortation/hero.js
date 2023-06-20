@@ -40,7 +40,6 @@ const Hero = () => {
                 Alex on his personal cellphone at <span>(513) 620-4529</span>.
               </div>
 
-              <div className="newclass1">
                 <div className={style.btn1}>
                   <button className={style.BTN}>
                     <i className="fa fa-phone i aria-hidden=true"></i> Call Us
@@ -51,7 +50,6 @@ const Hero = () => {
                     A Message
                   </button>
                 </div>
-              </div>
             </div>
             <div className={style.btn4}>
               <h3>What kind of accident have you been in?</h3>
