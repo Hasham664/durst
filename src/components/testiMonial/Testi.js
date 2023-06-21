@@ -6,7 +6,7 @@ const Testi = () => {
       <div className="container">
         <div className={style.onlyText}>
           <div className={style.textH}>
-            <img src="./images/icon2.png" alt="" />
+            <img src="./images/new5.svg" alt="" />
             <h1>Testimonials</h1>
             <h3>See what our former clients have to say.</h3>
             <p>Filter by area</p>
