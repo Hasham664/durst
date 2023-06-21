@@ -38,7 +38,7 @@ const Appeals = () => {
             </div>
           </div>
           <div className={style.appeal}>
-            <img src="./images/appeals-img1.jpg" alt="" />
+            <img src="./images/appeals-canvapic.png" alt="" />
           </div>
         </div>
       </div>
